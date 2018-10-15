@@ -1,7 +1,7 @@
 # neural_network_cpp
 Simple neural network in C++ from scratch.
 
-I build Simple neural network in C++ from scratch. For Matrix operation I used the popular libary called Eigen.
+I build a simple neural network in C++ from scratch. For Matrix operation I used the popular libary called Eigen.
 The neural network class can initialized with as many layers and neurons as needed.
 The weights of the neural network are initialized by the He-et-al method.
 As the activation function the common sigmoid function is used.
