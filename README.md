@@ -8,8 +8,6 @@ As the activation function the common sigmoid function is used.
 The output layer of the Network is one-hot coded.
 Backpropagation is used to train the network.
 
-## Shit was my programming bad at this time...
-
 ## Licence
 "THE BEER-WARE LICENSE" (Revision 42):
 Christoph Reich wrote this file. As long as you retain this notice you
